@@ -191,7 +191,7 @@ Backpropagation uses the **chain rule of calculus** to calculate how changes in 
 
 > **Backpropagation = Calculate gradients → Find each parameter's contribution to the error → Update weights and biases**
 
-![[393e3466-824a-4c33-ab41-a64c33cde5a2.jpeg]]
+![393e3466-824a-4c33-ab41-a64c33cde5a2.jpeg]
 
 
 
