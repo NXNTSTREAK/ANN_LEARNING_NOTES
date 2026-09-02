@@ -191,7 +191,7 @@ Backpropagation uses the **chain rule of calculus** to calculate how changes in 
 
 > **Backpropagation = Calculate gradients → Find each parameter's contribution to the error → Update weights and biases**
 
-!(393e3466-824a-4c33-ab41-a64c33cde5a2.jpeg)
+<img src="images/393e3466-824a-4c33-ab41-a64c33cde5a2.jpeg" alt="Alt Text" width="500">
 
 
 
@@ -217,8 +217,7 @@ Imagine you are trying to reach a destination:
 
 `new_weight = old_weight - learning_rate * gradient`
 
-!(Pasted image 20260901132016.png)
-
+<img src="images/Pasted image 20260901132016.png" alt="Alt Text" width="500">
 
 
 ## Loss Function
