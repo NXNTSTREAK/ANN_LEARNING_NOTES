@@ -16,7 +16,7 @@ model = tf.keras.Sequential([
 model.summary()
 ```
 
-**### Explanation:
+### Explanation:
 
 This code creates a **3-layer ANN model** to recognize handwritten digits from the MNIST dataset.
 
